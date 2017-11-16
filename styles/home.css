@@ -2,6 +2,9 @@
 	margin-bottom: 0;
 }
 
+.navbar-right {
+	margin-right: 0;
+}
 footer {
    position:absolute;
    padding-top: 2%;
